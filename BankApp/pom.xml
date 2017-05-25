@@ -15,7 +15,11 @@
 	    <version>1.10.19</version>
 	    <scope>compile</scope>
 	</dependency>
-  	
+  	<dependency>
+    	<groupId>org.codehaus.sonar</groupId>
+    	<artifactId>sonar-maven-plugin</artifactId>
+    	<version>4.0</version>
+	</dependency>
 	
   </dependencies>
   
